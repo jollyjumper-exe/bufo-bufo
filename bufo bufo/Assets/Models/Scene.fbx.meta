@@ -3,7 +3,27 @@ guid: 014271f5f6e5eff41bd5b52e24570c30
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gravel
+    second: {fileID: 2100000, guid: df13cd6ae3c49104e8bb2faa4cd83e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrungyConcrete
+    second: {fileID: 2100000, guid: ea8ef4cf1bfc058408b899df1a1bc807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster
+    second: {fileID: 2100000, guid: 39b264f1e0e57bc45a99c598295a235d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneTileFloor
+    second: {fileID: 2100000, guid: 3b88b4a4e28364a4eafab6ac1a1a13fa, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
